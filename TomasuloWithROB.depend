@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1575324071 source:c:\users\jeffd\onedrive\desktop\ece474\tomasulos_algorithm\tomasulowithrob\main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+	<stdlib.h>
+
