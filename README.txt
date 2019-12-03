@@ -38,3 +38,8 @@ Code::Blocks and click "Build and Run." The output
 will open in a terminal, and will show the data flow
 of the processor for every cycle.
 
+NOTE:
+If an entry contains all integer values of (-1) and 
+all boolean values of 0 (false), it is considered
+empty.
+
