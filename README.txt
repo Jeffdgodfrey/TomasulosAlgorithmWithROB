@@ -31,7 +31,9 @@ be whitespace delimited. In the first line, place the
 number of instructions. In the second line, place the 
 number of clock cycles to run the program for. The
 following lines will contain the instructions (accor-
-ding to how many instructions you indicated). In the 
+ding to how many instructions you indicated). 
+Instructions have four components, of the form 
+(operation destination source_1 source_2). In the 
 next eight lines, place the initial values for the 
 registers (R0-R7). Finally, open the project in 
 Code::Blocks and click "Build and Run." The output
